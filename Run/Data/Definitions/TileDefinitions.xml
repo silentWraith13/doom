@@ -1,0 +1,8 @@
+<Definitions>
+  <TileDefinition name="StoneFloor" isSolid="false" mapImagePixelColor="0,0,0" floorSpriteCoords="3,7" ceilingSpriteCoords="4,7"/>
+  <TileDefinition name="WoodFloor" isSolid="false" mapImagePixelColor="48,48,48" floorSpriteCoords="3,7" ceilingSpriteCoords="4,7"/>
+  <TileDefinition name="BrickWall" isSolid="true" mapImagePixelColor="255,255,255" wallSpriteCoords="6,4"/>
+  <TileDefinition name="WoodWall" isSolid="true" mapImagePixelColor="143,136,82" wallSpriteCoords="0,4"/>
+  <TileDefinition name="OpenGrass" isSolid="false" mapImagePixelColor="0,128,0" floorSpriteCoords="6,7" ceilingSpriteCoords="7,3"/>
+  <TileDefinition name="OpenDirt" isSolid="false" mapImagePixelColor="127,51,0" floorSpriteCoords="7,7" ceilingSpriteCoords="6,3"/>
+</Definitions>
